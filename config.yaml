@@ -3,9 +3,9 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        event-based camera: 1
+        event-based: 1
+        dynamic vision sensor: 1
 
 # 通知の閾値
 score_threshold: 0
